@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Samuel and I'm a student, from Colombian School of Engineering Julio Garavito</h3>
+<h3 align="left">Hi 👋! My name is Samuel and I'm a Software Engineering student at the Colombian School of Engineering Julio Garavito. Interested in cybersecurity, hyperautomation, AI, and data-driven systems. Passionate about building secure, efficient, and intelligent software solutions that push technology beyond conventional limits.  </h3>
 
 ###
 
