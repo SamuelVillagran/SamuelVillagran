@@ -32,5 +32,5 @@
 </div>
 
 ###
-Description helped to make with Gemini IA
+Description and photos helped to make with Gemini IA
 <br clear="both">
